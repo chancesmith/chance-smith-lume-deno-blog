@@ -1,0 +1,16 @@
+lang: en
+
+home:
+  welcome: Thoughts for software product teams
+
+menu_links: []
+extra_head: []
+
+# Metas plugin https://lume.land/plugins/metas/#description
+metas:
+  site: Chance Smith
+  description: Building software teams
+  title: "=title"
+  image: "=image"
+  twitter: "@chance_smith"
+  lang: en
